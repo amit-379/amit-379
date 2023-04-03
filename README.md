@@ -2,10 +2,10 @@
 
 Hey there 👋
 
-I’m Amit, a smart contract developer, creative coder and self-proclaimed full-stack developer. First time in tech and working hard learning about decentralized technologies and frameworks.
+I’m Amit, a full stack developer with a passion for technology and a love for books. I have extensive experience working with a variety of technologies, including PHP, Laravel, React, JavaScript, Vue.js, Next.js, MySQL, and more.
 
 - 👋 Hi, I’m Amit(@CodePuzzler)
-- 👀 I’m interested in Smart Contract Development
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning various technologies in web3 space.
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 ay.puzzler@gmail.com
