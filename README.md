@@ -1,4 +1,4 @@
-![Amit's GitHub Banner](./cp-banner.png)
+![Amit's GitHub Banner](./ay-banner.png)
 
 Hey there 👋
 
