@@ -4,7 +4,7 @@ Hey there 👋
 
 I’m Amit, a full stack developer with a passion for technology and a love for books. I have extensive experience working with a variety of technologies, including PHP, Laravel, React, JavaScript, Vue.js, Next.js, MySQL, and more.
 
-- 👋 Hi, I’m Amit(@CodePuzzler)
+- 👋 Hi, I’m Amit(@amit-379)
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning various technologies in web3 space.
 - 💞️ I’m looking to collaborate on web3 projects
